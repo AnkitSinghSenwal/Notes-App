@@ -12,4 +12,4 @@ Head over to https://vitejs.dev/ to learn more about configuring vite
 The is a note making application which allow you to
 create, update, and delete note(s).
 
-This appliction use firebase for storing notes data.
+This appliction use localstorage to store notes data.
